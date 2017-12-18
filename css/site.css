@@ -1,0 +1,6 @@
+.pic {
+	float: left; 
+	border-radius: 50%;
+	margin-left: -50px;
+	margin-right: 25px; 
+}
